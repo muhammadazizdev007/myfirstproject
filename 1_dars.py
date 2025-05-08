@@ -70,7 +70,7 @@
 # print("Jami unli harflar soni:", len(topilgan_unlilar))
 
 
-avto = ["volvo", "audi", "bugatti"] #royxat 
+avto = ["volvo", "audi", "bugatti", "chevrolet"] #royxat 
 # print(avto[2])
 
 # for i in range(len(avto)):
